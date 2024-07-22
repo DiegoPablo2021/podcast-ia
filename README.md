@@ -40,6 +40,10 @@ Estamos sempre em busca de novas ideias e contribuições para tornar o nosso po
 4. Envie para a branch principal: `git push origin minha-contribuicao`.
 5. Abra um Pull Request e descreva suas alterações.
 
+## 📚 Materiais
+
+- [Notion Template](https://www.notion.so/portfolio-diegopablo/PAS-Podcast-AI-Studio-3646e447fd754aafbb71d8962bf60fc1?pvs=4)
+
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
