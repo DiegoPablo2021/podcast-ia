@@ -40,6 +40,14 @@ Estamos sempre em busca de novas ideias e contribuições para tornar o nosso po
 4. Envie para a branch principal: `git push origin minha-contribuicao`.
 5. Abra um Pull Request e descreva suas alterações.
 
+## 🛠️ Instruções de execução
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `midjourney`
+
 ## Contato
 
 Para mais informações, sugestões ou feedbacks, entre em contato comigo através:
