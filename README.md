@@ -42,7 +42,7 @@ Estamos sempre em busca de novas ideias e contribuições para tornar o nosso po
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/portfolio-diegopablo/PAS-Podcast-AI-Studio-3646e447fd754aafbb71d8962bf60fc1?pvs=4)
+- [Notion Template](https://portfolio-diegopablo.notion.site/PAS-Podcast-AI-Studio-3646e447fd754aafbb71d8962bf60fc1)
 
 ## 🛠️ Instruções de execução
 
